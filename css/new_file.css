@@ -1,0 +1,11 @@
+.footer{
+	width:980px;
+	margin:0 auto;
+	height:100px;
+	line-height: 100px;
+	color:#fff;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	text-align: center;
+	background-color:#525252;
+}
